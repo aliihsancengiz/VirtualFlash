@@ -1,0 +1,2 @@
+This Repository contains flash stub for Microcontrollers.
+Tested Flash stub is implemented for STM32F4-DISC MCU which is 1Mb.
